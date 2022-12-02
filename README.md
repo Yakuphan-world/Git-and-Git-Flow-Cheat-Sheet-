@@ -611,3 +611,11 @@ git flow hotfix finish VERSION
 </p>
 
 <hr>
+git-flow-commands-without-flow.htm
+git-flow-commands.htm
+git-logo.htm
+gmail.svg
+it.htm
+it.svg
+linkedin-dark.svg
+linkedin-light.svg
