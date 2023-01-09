@@ -1,4 +1,5 @@
 # Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+
 <hr>
 <p align="center">
 	<img alt="Git" src="../Img/git-logo.png" height="190" width="455">
@@ -43,6 +44,7 @@ $ git config --system --list
 
 ##### Sürüm geçmişinde gözükecek adı belirlemek:
 ```
+
 $ git config --global user.name “[firstname lastname]”
 ```
 
@@ -609,3 +611,11 @@ git flow hotfix finish VERSION
 </p>
 
 <hr>
+git-flow-commands-without-flow.htm
+git-flow-commands.htm
+git-logo.htm
+gmail.svg
+it.htm
+it.svg
+linkedin-dark.svg
+linkedin-light.svg
